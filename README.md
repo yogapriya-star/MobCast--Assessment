@@ -67,7 +67,7 @@ To run this project locally, follow these steps:
 - `resources/views/welcome.blade.php`: The main view file containing the HTML and JavaScript for displaying the table.
 
 a. To Use this Command while run:
-       ```bash
-    composer install
-    php artisan serve 
-    ```
+    
+    - composer install
+    - php artisan serve 
+    
